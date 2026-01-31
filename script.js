@@ -39,7 +39,7 @@ input.addEventListener("focus", () => {
             behavior: "smooth",
             block: "center"
         });
-    }, 300);
+    }, 100);
 });
 
 render();
